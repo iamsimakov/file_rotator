@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ['iamsimakov']
   s.email       = 'iamsimakov@gmail.com'
   s.files       = ['lib/file_rotator.rb']
-  s.homepage    = 'http://rubygems.org/gems/file_rotator'
+  s.homepage    = 'https://github.com/iamsimakov/file_rotator'
   s.license     = 'MIT'
 end
